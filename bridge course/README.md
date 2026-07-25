@@ -236,9 +236,4 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 ---
 
-If you'd like, I can:
-- Add this README to a different path (root or a different folder)
-- Create individual module READMEs
-- Add badges or CI configuration
-
 Happy to make further edits.
